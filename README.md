@@ -1,2 +1,1 @@
-# rock_paper
-This is a Rock-Paper-Scissor game which only runs on linux terminal
+These games can will only work on linux terminal
