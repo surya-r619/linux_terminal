@@ -75,7 +75,8 @@ def hard():
     else:
         os.system('clear')
         print("Sorry!!")
-        print("You ran out of chances\n\n")
+        print("You ran out of chances")
+        print("The number was {}\n\n".format(num))
         print("Do you wanna try again?[y/n] : ")
         play = input()
         if play == ("y" or "Y"):
