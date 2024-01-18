@@ -7,4 +7,4 @@ textScroll: textScroll.c
 clean:
 	rm -f textScroll
 
-#contributed by Shashiraj
+#contributed by Shashiraj ;;;
